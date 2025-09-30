@@ -1,6 +1,6 @@
 # 🚀 Guia Completo de Deploy - Chatbot Roleplay
 
-Este guia fornece instruções passo a passo para fazer o deploy completo do seu chatbot de roleplay imersivo.
+- Este guia fornece instruções passo a passo para fazer o deploy completo do seu chatbot de roleplay imersivo.
 
 ## 📋 Pré-requisitos
 
