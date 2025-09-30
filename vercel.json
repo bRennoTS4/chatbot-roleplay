@@ -1,0 +1,21 @@
+{
+  "functions": {
+    "api/chat.js": {
+      "maxDuration": 30
+    },
+    "api/auth.js": {
+      "maxDuration": 10
+    }
+  },
+  "env": {
+    "OPENROUTER_API_KEY": "@openrouter-api-key",
+    "SUPABASE_URL": "@supabase-url",
+    "SUPABASE_SERVICE_ROLE_KEY": "@supabase-service-role-key"
+  },
+  "build": {
+    "env": {
+      "VITE_SUPABASE_URL": "@supabase-url",
+      "VITE_SUPABASE_ANON_KEY": "@supabase-anon-key"
+    }
+  }
+}
